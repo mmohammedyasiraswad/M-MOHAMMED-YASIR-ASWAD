@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Feedback Analyzer",
+  "description": "A powerful SaaS platform to transform raw user feedback into actionable insights using advanced sentiment and emotion analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
